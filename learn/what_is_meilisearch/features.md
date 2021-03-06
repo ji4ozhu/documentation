@@ -1,4 +1,4 @@
-# Features
+# Features123
 
 All of MeiliSearch's features are provided right out of the box, and can be easily [configured](/reference/features/search_parameters.md). Here are a few of them that you should try out!
 
